@@ -1,0 +1,559 @@
+CHROM	TYPE	START	END	NAME
+1	gene	139908	149475	retinol binding protein 2 
+1	gene	193602	222680	coatomer protein complex subunit beta 2 
+1	gene	223545	238934	mitochondrial ribosomal protein S22 
+1	pseudogene	470473	471264	transcript_id=ENSMICT00000073199
+1	pseudogene	485384	486133	transcript_id=ENSMICT00000072581
+1	pseudogene	553416	556593	transcript_id=ENSMICT00000073251
+1	gene	557228	558358	forkhead box L2 
+1	gene	655221	800603	phosphatidylinositol-4%2C5-bisphosphate 3-kinase catalytic subunit beta 
+1	gene	823589	865009	Fas apoptotic inhibitory molecule 
+1	gene	875764	940897	centrosomal protein 70 
+1	gene	949446	994690	extended synaptotagmin 3 
+1	gene	1032928	1090278	muscle RAS oncogene homolog 
+1	gene	1191634	1298106	armadillo repeat containing 8 
+1	gene	1307779	1320535	debranching RNA lariats 1 
+1	gene	1344341	1350502	alpha-1%2C4-N-acetylglucosaminyltransferase 
+1	gene	1357936	1418977	DAZ interacting zinc finger protein 1 like 
+1	gene	1439460	1463530	claudin 18 
+1	gene	1663702	1664424	SRY-box 14 
+1	gene	2338759	2362316	interleukin 20 receptor subunit beta 
+1	gene	2466607	2482825	solute carrier family 35 member G2 
+1	gene	2965586	3029294	propionyl-CoA carboxylase subunit beta 
+1	gene	3055919	3090117	MSL complex subunit 2 
+1	gene	3091548	3240857	protein phosphatase 2 regulatory subunit B''alpha 
+1	gene	3809913	4219205	EPH receptor B1 
+1	gene	4363909	4409586	kyphoscoliosis peptidase 
+1	gene	4436051	4517759	centrosomal protein 63 
+1	gene	4488624	4495876	anaphase promoting complex subunit 13 
+1	gene	4585697	4604346	angiomotin like 2 
+1	gene	4910677	4990922	solute carrier organic anion transporter family member 2A1 
+1	gene	5016977	5081147	RAB6B%2C member RAS oncogene family 
+1	gene	5085698	5100554	SRP receptor subunit beta 
+1	gene	5109315	5203965	transferrin 
+1	gene	5216511	5287320	DNA topoisomerase II binding protein 1 
+1	gene	5300734	5315486	CDV3 homolog 
+1	gene	5397146	5460659	beaded filament structural protein 2 
+1	gene	5464529	5767073	transmembrane protein 108 
+1	gene	6038935	6057285	ubiquitin like modifier activating enzyme 5 
+1	gene	6057376	6143041	acyl-CoA dehydrogenase family member 11 
+1	gene	6106455	6107507	atypical chemokine receptor 4 
+1	gene	6175542	6296687	DnaJ heat shock protein family (Hsp40) member C13 
+1	gene	6331711	6377523	acid phosphatase%2C prostate 
+1	gene	6601990	7063421	copine 4 
+1	gene	7192421	7194137	nudix hydrolase 16 
+1	gene	7235485	7497757	NIMA related kinase 11 
+1	gene	7508735	7653332	ATPase secretory pathway Ca2+ transporting 1 
+1	gene	7740533	7819554	phosphoinositide-3-kinase regulatory subunit 4 
+1	pseudogene	7999114	8094217	transcript_id=ENSMICT00000072896
+1	pseudogene	8327146	8379628	transcript_id=ENSMICT00000072483
+1	pseudogene	8517186	8529966	transcript_id=ENSMICT00000072383
+1	gene	8530948	8546385	ELL associated factor 1 
+1	gene	8566448	8633181	collagen like tail subunit of asymmetric acetylcholinesterase 
+1	gene	8647103	8700398	2-hydroxyacyl-CoA lyase 1 
+1	gene	8700523	8732374	biotinidase 
+1	gene	8744913	8924102	ankyrin repeat domain 28 
+1	gene	9152707	9209289	polypeptide N-acetylgalactosaminyltransferase 15 
+1	gene	9236445	9256481	diphthamide biosynthesis 3 
+1	gene	9256535	9293213	oxidoreductase NAD binding domain containing 1 
+1	gene	9305082	9516093	raftlin%2C lipid raft linker 1 
+1	gene	9589187	9605971	deleted in azoospermia like 
+1	gene	9824678	10002919	phospholipase C like 2 
+1	pseudogene	9997942	9998498	transcript_id=ENSMICT00000073300
+1	gene	10050756	10550779	TBC1 domain family member 5 
+1	gene	11868157	12244819	potassium voltage-gated channel subfamily H member 8 
+1	gene	12619918	12689012	EF-hand domain family member B 
+1	gene	12694278	12752721	RAB5A%2C member RAS oncogene family 
+1	gene	12752794	12783335	protein phosphatase 2C like domain containing 1 
+1	gene	12814666	12942668	lysine acetyltransferase 2B 
+1	gene	12951657	12982843	shugoshin 1 
+1	gene	13966083	14250586	zinc finger protein 385D 
+1	gene	15563234	15902181	ubiquitin conjugating enzyme E2 E2 
+1	gene	16098764	16176869	ubiquitin conjugating enzyme E2 E1 
+1	gene	16178815	16194270	NFKB inhibitor interacting Ras like 1 
+1	gene	16237588	16267781	nuclear receptor subfamily 1 group D member 2 
+1	gene	16404239	16783153	thyroid hormone receptor beta 
+1	gene	17704261	17868887	retinoic acid receptor beta 
+1	gene	17868941	17933543	DNA topoisomerase II beta 
+1	gene	17974643	18027619	N-glycanase 1 
+1	gene	18033355	18038132	3-oxoacyl-ACP synthase%2C mitochondrial 
+1	gene	18864827	18865606	leucine rich repeat containing 3B 
+1	pseudogene	19192391	19319390	transcript_id=ENSMICT00000073274
+1	gene	19355665	19448364	NIMA related kinase 10 
+1	gene	19454380	19564754	solute carrier family 4 member 7 
+1	gene	19788684	19795449	eomesodermin 
+1	gene	20294558	20366506	C-X9-C motif containing 1 
+1	gene	20369432	20397938	5-azacytidine induced 2 
+1	gene	20398076	20504869	zinc finger CW-type and PWWP domain containing 2 
+1	gene	21246012	21936270	RNA binding motif single stranded interacting protein 3 
+1	gene	22479251	22568340	transforming growth factor beta receptor 2 
+1	gene	23449764	23559886	STT3B%2C catalytic subunit of the oligosaccharyltransferase complex 
+1	gene	23566684	23779787	oxysterol binding protein like 10 
+1	pseudogene	24157669	24210789	transcript_id=ENSMICT00000073344
+1	gene	24213629	24296492	F-box and leucine rich repeat protein 2 
+1	gene	24337530	24393432	sushi domain containing 5 
+1	gene	24404138	24435391	cartilage associated protein 
+1	gene	24450077	24538607	galactosidase beta 1 
+1	pseudogene	24488683	24491213	transcript_id=ENSMICT00000073374
+1	gene	24710420	24711499	C-C motif chemokine receptor 4 
+1	gene	24757113	24853477	tripartite motif containing 71 
+1	gene	24890561	24982175	CCR4-NOT transcription complex subunit 10 
+1	gene	25112565	25153726	dynein cytoplasmic 1 light intermediate chain 1 
+1	gene	25174959	25192263	CKLF like MARVEL transmembrane domain containing 6 
+1	gene	25213389	25279206	CKLF like MARVEL transmembrane domain containing 7 
+1	gene	25311160	25476217	CKLF like MARVEL transmembrane domain containing 8 
+1	gene	25853638	25883716	glutamate decarboxylase like 1 
+1	gene	25959203	26011930	zinc finger DHHC-type containing 3 
+1	gene	26011961	26060327	exosome component 7 
+1	gene	26073700	26084166	C-type lectin domain family 3 member B 
+1	gene	26130335	26192223	CUB domain containing protein 1 
+1	pseudogene	26301019	26302664	transcript_id=ENSMICT00000072766
+1	gene	26457830	26626876	leucyl-tRNA synthetase 2%2C mitochondrial 
+1	gene	26730160	26816889	LIM domains containing 1 
+1	gene	26826642	26904516	SAC1 like phosphatidylinositide phosphatase 
+1	gene	26912618	26948423	solute carrier family 6 member 20 
+1	gene	27026180	27039403	C-C motif chemokine receptor 9 
+1	gene	27049531	27130062	FYVE and coiled-coil domain containing 1 
+1	gene	27076838	27077866	C-X-C motif chemokine receptor 6 
+1	gene	27146284	27147270	X-C motif chemokine receptor 1 
+1	pseudogene	27167336	27168808	transcript_id=ENSMICT00000073441
+1	gene	27309675	27310742	C-C motif chemokine receptor 1 
+1	gene	27348455	27349522	C-C motif chemokine receptor 3 
+1	gene	27440964	27442085	C-C motif chemokine receptor 2 
+1	gene	27453202	27457598	C-C motif chemokine receptor 5 
+1	gene	27486597	27487652	C-C motif chemokine receptor like 2 
+1	gene	27500700	27532366	lactotransferrin 
+1	gene	27802018	27810251	zinc finger protein 662 
+1	pseudogene	27830600	27831756	transcript_id=ENSMICT00000072553
+1	gene	27992504	28001946	hedgehog acyltransferase like 
+1	gene	28002171	28008989	kelch like family member 40 
+1	gene	28029291	28041700	zinc finger and BTB domain containing 47 
+1	gene	28047135	28117970	natural killer cell triggering receptor 
+1	gene	28127195	28131588	SS18 like 2 
+1	gene	28138193	28169228	SEC22 homolog C%2C vesicle trafficking protein 
+1	gene	28181303	28215741	vasoactive intestinal peptide receptor 1 
+1	gene	28295010	28307727	lysozyme like 4 
+1	gene	28446987	28453914	cholecystokinin 
+1	gene	28476180	28610511	trafficking kinesin protein 1 
+1	gene	28718532	29296212	unc-51 like kinase 4 
+1	gene	29303477	29349387	catenin beta 1 
+1	gene	29936375	29947857	zinc finger protein 621 
+1	gene	29951780	29957022	zinc finger protein 620 
+1	gene	29961951	29971583	zinc finger protein 619 
+1	gene	30001203	30044779	ectonucleoside triphosphate diphosphohydrolase 3 
+1	gene	30123802	30126500	eukaryotic translation initiation factor 1B 
+1	gene	30159113	30530408	myosin VIIA and Rab interacting protein 
+1	gene	30934951	30936018	C-C motif chemokine receptor 8 
+1	gene	31091868	31110253	C-X3-C motif chemokine receptor 1 
+1	gene	31189436	31193261	xin actin binding repeat containing 1 
+1	gene	31231227	31243480	cysteine and serine rich nuclear protein 1 
+1	gene	31248257	31288054	tetratricopeptide repeat domain 21A 
+1	gene	31287624	31297683	golgi reassembly stacking protein 1 
+1	pseudogene	31301389	31363918	transcript_id=ENSMICT00000072850
+1	gene	31496651	31584966	sodium voltage-gated channel alpha subunit 11 
+1	gene	31641194	31742822	sodium voltage-gated channel alpha subunit 10 
+1	gene	31788440	31904723	sodium voltage-gated channel alpha subunit 5 
+1	gene	31927339	31951754	exo/endonuclease G 
+1	gene	31964444	31990898	activin A receptor type 2B 
+1	gene	32017409	32062421	xylulokinase 
+1	pseudogene	32087248	32100682	transcript_id=ENSMICT00000072588
+1	pseudogene	32123938	32134594	transcript_id=ENSMICT00000073173
+1	gene	32154336	32247478	oxidative stress responsive 1 
+1	gene	32274930	32278089	MYD88%2C innate immune signal transduction adaptor 
+1	gene	32278973	32290519	acetyl-CoA acyltransferase 1 
+1	gene	32290492	32365789	DLEC1%2C cilia and flagella associated protein 
+1	gene	32374046	32397403	phospholipase C delta 1 
+1	gene	32397651	32417650	villin like 
+1	gene	32422757	32544664	CTD small phosphatase like 
+1	gene	32587352	32974845	integrin subunit alpha 9 
+1	gene	33035771	33143034	golgin A4 
+1	gene	33190642	33308426	LRR binding FLII interacting protein 2 
+1	gene	33286060	33355057	mutL homolog 1 
+1	pseudogene	33355421	33357244	transcript_id=ENSMICT00000072924
+1	gene	33500048	33606292	tetratricopeptide repeat and ankyrin repeat containing 1 
+1	gene	33690137	33715663	doublecortin like kinase 3 
+1	gene	33826159	33966122	SH3 and cysteine rich domain 
+1	gene	34402937	34555553	cAMP regulated phosphoprotein 21 
+1	gene	36588677	36602715	leucine%2C glutamate and lysine rich 1 
+1	gene	36725128	36757826	TCDD inducible poly(ADP-ribose) polymerase 
+1	gene	36857775	36869666	signal sequence receptor subunit 3 
+1	gene	36874315	37228476	potassium voltage-gated channel subfamily A member regulatory beta subunit 1 
+1	pseudogene	37280366	37304985	transcript_id=ENSMICT00000073098
+1	gene	37502782	37522023	chromosome 3 open reading frame 33 
+1	gene	37532840	37852529	phospholipase C eta 1 
+1	gene	38021738	38106502	membrane metalloendopeptidase 
+1	gene	38600998	38657965	G protein-coupled receptor 149 
+1	gene	38666999	38716355	DEAH-box helicase 36 
+1	gene	38728686	38857636	Rho guanine nucleotide exchange factor 26 
+1	gene	39684599	39685150	RAP2B%2C member of RAS oncogene family 
+1	gene	39950887	39952008	purinergic receptor P2Y1 
+1	gene	40271752	40440564	muscleblind like splicing regulator 1 
+1	gene	40800670	40855851	succinate receptor 1 
+1	gene	40876194	40904684	arylacetamide deacetylase 
+1	gene	40928320	40957821	arylacetamide deacetylase like 2 
+1	gene	41140171	41165252	immunoglobulin superfamily member 10 
+1	gene	41168684	41479984	mediator complex subunit 12 like 
+1	gene	41253941	41254969	purinergic receptor P2Y12 
+1	gene	41263284	41300171	G protein-coupled receptor 87 
+1	gene	41263297	41264793	purinergic receptor P2Y13 
+1	gene	41360146	41361162	purinergic receptor P2Y14 
+1	gene	41375580	41376539	G protein-coupled receptor 171 
+1	gene	41621957	41656462	clarin 1 
+1	gene	41679975	41712182	MINDY family member 4B 
+1	gene	41791305	41809004	siah E3 ubiquitin protein ligase 2 
+1	pseudogene	41848920	41891460	transcript_id=ENSMICT00000073314
+1	gene	41907334	41931856	selenoprotein T 
+1	gene	41956303	41992865	eukaryotic translation initiation factor 2A 
+1	pseudogene	41993414	41993657	transcript_id=ENSMICT00000072684
+1	gene	42061740	42117100	TSC22 domain family member 2 
+1	gene	42539738	42546113	profilin 2 
+1	gene	42549231	42665020	ring finger protein 13 
+1	gene	42684709	42711274	ankyrin repeat and ubiquitin domain containing 1 
+1	gene	42717662	42725941	COMM domain containing 2 
+1	gene	42802071	42954802	WW domain containing transcription regulator 1 
+1	gene	42970933	42993942	transmembrane 4 L six family member 4 
+1	gene	43085431	43094215	transmembrane 4 L six family member 1 
+1	gene	43132338	43149776	transmembrane 4 L six family member 18 
+1	gene	43209760	43251149	ceruloplasmin 
+1	gene	43251899	43290796	HPS3%2C biogenesis of lysosomal organelles complex 2 subunit 1 
+1	gene	43316080	43366763	helicase like transcription factor 
+1	gene	43371041	43403444	glycogenin 1 
+1	gene	43474186	43496972	carboxypeptidase A3 
+1	gene	43502687	43542696	carboxypeptidase B1 
+1	gene	43615677	43617891	angiotensin II receptor type 1 
+1	gene	44537124	44793751	Zic family member 1 
+1	gene	44795518	44812169	Zic family member 4 
+1	gene	45475717	45506708	phospholipid scramblase family member 5 
+1	gene	45553709	45574919	phospholipid scramblase 1 
+1	pseudogene	45594143	45615016	transcript_id=ENSMICT00000072615
+1	gene	45724338	45768851	phospholipid scramblase 4 
+1	gene	45805962	45894726	procollagen-lysine%2C2-oxoglutarate 5-dioxygenase 2 
+1	gene	47733772	47757353	chromosome 3 open reading frame 58 
+1	gene	47891580	48427893	solute carrier family 9 member A9 
+1	gene	48561444	48563036	carbohydrate sulfotransferase 2 
+1	gene	48607786	48662058	U2 snRNP associated SURP domain containing 
+1	gene	48695078	48696211	progestin and adipoQ receptor family member 9 
+1	gene	48762120	48825572	procollagen C-endopeptidase enhancer 2 
+1	gene	48846470	48919547	transient receptor potential cation channel subfamily C member 1 
+1	gene	48921947	49002036	plastin 1 
+1	gene	49040992	49141229	ATR serine/threonine kinase 
+1	gene	49142648	49274685	5'-3' exoribonuclease 1 
+1	gene	49323004	49377025	glycerol kinase 5 
+1	gene	49421634	49560373	transcription factor Dp-2 
+1	gene	49580227	49624758	ATPase Na+/K+ transporting subunit beta 3 
+1	gene	49695632	49732921	G protein-coupled receptor kinase 7 
+1	pseudogene	49746069	49746470	transcript_id=ENSMICT00000072681
+1	gene	49753883	49762660	ring finger protein 7 
+1	gene	49849779	49962497	RAS p21 protein activator 2 
+1	gene	50003688	50007272	zinc finger and BTB domain containing 38 
+1	gene	50137066	50195416	2-phosphoxylose phosphatase 1 
+1	gene	50258067	50334734	splA/ryanodine receptor domain and SOCS box containing 4 
+1	gene	50585089	50609708	tripartite motif containing 42 
+1	gene	50681344	51262353	calsyntenin 2 
+1	gene	51509914	51591163	nicotinamide nucleotide adenylyltransferase 3 
+1	gene	51624612	51676854	retinol binding protein 1 
+1	gene	52161719	52170029	otolin 1 
+1	pseudogene	52288042	52288743	transcript_id=ENSMICT00000073356
+1	gene	52317552	52317782	serine palmitoyltransferase small subunit B 
+1	gene	52390930	52433101	NMD3 ribosome export adaptor 
+1	pseudogene	52528321	52529316	transcript_id=ENSMICT00000073322
+1	gene	52557260	52826701	protein phosphatase%2C Mg2+/Mn2+ dependent 1L 
+1	gene	52914887	52915465	ADP ribosylation factor like GTPase 14 
+1	gene	52997934	53059344	karyopherin subunit alpha 4 
+1	gene	53123741	53135957	tripartite motif containing 59 
+1	gene	53340226	53340972	chromosome 3 open reading frame 80 
+1	gene	53642625	53649725	interleukin 12A 
+1	gene	53738603	54296201	IQCJ-SCHIP1 readthrough 
+1	gene	54308189	54479069	IQ motif containing J 
+1	gene	54694343	54714781	major facilitator superfamily domain containing 1 
+1	gene	54786159	54808660	retinoic acid receptor responder 1 
+1	gene	54819686	54868604	G elongation factor mitochondrial 1 
+1	gene	54836861	54844226	latexin 
+1	pseudogene	55366388	55371540	transcript_id=ENSMICT00000073191
+1	gene	55390447	55399123	short stature homeobox 2 
+1	gene	55962501	55968855	pentraxin 3 
+1	gene	56250732	56263633	cyclin L1 
+1	gene	59059403	59137656	sucrase-isomaltase 
+1	gene	59245973	59248915	SLIT and NTRK like family member 3 
+1	gene	59751787	59819718	butyrylcholinesterase 
+1	gene	61141429	61259503	zinc finger B-box domain containing 
+1	gene	61298363	61326392	serpin family I member 2 
+1	gene	61329220	61485354	WD repeat domain 49 
+1	gene	61561390	61639691	serpin family I member 1 
+1	gene	61823538	61906483	golgi integral membrane protein 4 
+1	gene	62862487	63439920	MDS1 and EVI1 complex locus 
+1	gene	63531388	63535683	actin related protein T3 
+1	gene	63539758	63553640	myoneurin 
+1	pseudogene	63562143	63580265	transcript_id=ENSMICT00000073297
+1	gene	63581901	63599854	leucine rich repeats and IQ motif containing 4 
+1	gene	63602110	63629738	leucine rich repeat containing 31 
+1	gene	63685039	63704694	sterile alpha motif domain containing 7 
+1	gene	63736601	63762149	SEC62 homolog%2C preprotein translocation factor 
+1	gene	63828117	63829133	G protein-coupled receptor 160 
+1	gene	63839562	63916245	polyhomeotic homolog 3 
+1	gene	63946906	64010906	protein kinase C iota 
+1	gene	64044308	64072501	SKI like proto-oncogene 
+1	gene	64161487	64218337	solute carrier family 7 member 14 
+1	gene	64545502	64558391	eukaryotic translation initiation factor 5A2 
+1	gene	64600234	64626389	solute carrier family 2 member 2 
+1	gene	64660311	65020992	TRAF2 and NCK interacting kinase 
+1	gene	65127730	65341867	phospholipase D1 
+1	pseudogene	65320121	65320560	transcript_id=ENSMICT00000073040
+1	gene	65373020	65383691	transmembrane protein 212 
+1	gene	65576048	65904414	fibronectin type III domain containing 3B 
+1	gene	65948242	65951439	growth hormone secretagogue receptor 
+1	gene	66020351	66037607	TNF superfamily member 10 
+1	gene	66129427	66174347	neutral cholesterol ester hydrolase 1 
+1	gene	66220269	66283671	epithelial cell transforming 2 
+1	gene	66347696	66633305	spermatogenesis associated 16 
+1	gene	67015453	67665179	neuroligin 1 
+1	gene	68325680	69304550	N-acetylated alpha-linked acidic dipeptidase like 2 
+1	gene	70342284	70503830	transducin beta like 1 X-linked receptor 1 
+1	gene	72154922	72181304	zinc finger matrin-type 3 
+1	gene	72231436	72317261	phosphatidylinositol-4%2C5-bisphosphate 3-kinase catalytic subunit alpha 
+1	gene	72322813	72338596	potassium calcium-activated channel subfamily M regulatory beta subunit 3 
+1	gene	72420066	72459884	mitofusin 1 
+1	gene	72467973	72516153	G protein subunit beta 4 
+1	gene	72612842	72635631	actin like 6A 
+1	gene	72636004	72653313	mitochondrial ribosomal protein L47 
+1	gene	72689143	72804728	ubiquitin specific peptidase 13 
+1	gene	72821374	73041665	peroxisomal biogenesis factor 5 like 
+1	gene	73486849	73507191	tetratricopeptide repeat domain 14 
+1	gene	74537988	74538950	SRY-box 2 
+1	gene	75555312	75664389	ATPase phospholipid transporting 11B (putative) 
+1	gene	75782120	75845177	methylcrotonoyl-CoA carboxylase 1 
+1	gene	75901209	76104118	MCF.2 cell line derived transforming sequence-like 2 
+1	gene	75971585	75972724	UDP-GlcNAc:betaGal beta-1%2C3-N-acetylglucosaminyltransferase 5 
+1	gene	76275080	76313296	kelch like family member 24 
+1	gene	76329570	76426069	YEATS domain containing 2 
+1	gene	76429388	76438193	MAP6 domain containing 1 
+1	gene	76514358	76596998	ATP binding cassette subfamily C member 5 
+1	gene	76618788	76624165	5-hydroxytryptamine receptor 3C 
+1	gene	76660281	76677598	5-hydroxytryptamine receptor 3E 
+1	gene	76694336	76706412	eukaryotic translation initiation factor 2B subunit epsilon 
+1	gene	76709813	76726016	dishevelled segment polarity protein 3 
+1	gene	76727225	76736986	adaptor related protein complex 2 subunit mu 1 
+1	gene	76738979	76746835	ATP binding cassette subfamily F member 3 
+1	gene	76775337	76788506	von Willebrand factor A domain containing 5B2 
+1	gene	76788841	76793932	ALG3%2C alpha-1%2C3- mannosyltransferase 
+1	gene	76794501	76806024	EEF1A lysine methyltransferase 4 
+1	gene	76805650	76807914	calcium/calmodulin dependent protein kinase II inhibitor 2 
+1	pseudogene	76814893	76829702	transcript_id=ENSMICT00000072368
+1	gene	76814893	76851808	proteasome 26S subunit%2C non-ATPase 2 
+1	gene	76856929	76875337	eukaryotic translation initiation factor 4 gamma 1 
+1	gene	76877567	76884103	family with sequence similarity 131 member A 
+1	gene	76885291	76901136	chloride voltage-gated channel 2 
+1	gene	76909978	76916281	thrombopoietin 
+1	gene	76917982	76927811	chordin 
+1	gene	77054582	77074516	EPH receptor B3 
+1	pseudogene	77179124	77180067	transcript_id=ENSMICT00000072885
+1	gene	77271548	77473665	VPS8%2C CORVET complex subunit 
+1	gene	77491934	77564949	chromosome 3 open reading frame 70 
+1	gene	77597015	77699423	enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase 
+1	gene	77713850	77879434	mitogen-activated protein kinase kinase kinase 13 
+1	gene	77886898	77896014	transmembrane protein 41A 
+1	gene	77902671	77942713	lipase H 
+1	gene	77952394	77996363	SUMO specific peptidase 2 
+1	gene	78279193	78299931	transformer 2 beta homolog 
+1	gene	78409315	78469054	ETS variant 5 
+1	gene	78498942	78685772	diacylglycerol kinase gamma 
+1	gene	78838724	78845256	crystallin gamma S 
+1	gene	78847188	78868193	TBCC domain containing 1 
+1	gene	78920038	78927658	alpha 2-HS glycoprotein 
+1	gene	78958356	78970503	fetuin B 
+1	gene	78983513	78993795	histidine rich glycoprotein 
+1	pseudogene	79019973	79048983	transcript_id=ENSMICT00000073010
+1	gene	79087124	79093623	eukaryotic translation initiation factor 4A2 
+1	gene	79093618	79106465	replication factor C subunit 4 
+1	gene	79128607	79138536	adiponectin%2C C1Q and collagen domain containing 
+1	gene	79231635	79328267	ST6 beta-galactoside alpha-2%2C6-sialyltransferase 1 
+1	gene	79388933	79391773	receptor transporter protein 1 
+1	gene	79411177	79477921	mannan binding lectin serine peptidase 1 
+1	gene	79553893	79557238	receptor transporter protein 4 
+1	gene	79773185	79774698	somatostatin 
+1	gene	79798882	79802283	receptor transporter protein 2 
+1	gene	79832785	79902807	B cell CLL/lymphoma 6 
+1	gene	80306295	80936750	LIM domain containing preferred translocation partner in lipoma 
+1	gene	81179884	81303343	tumor protein p63 regulated 1 
+1	gene	81561400	81780543	tumor protein p63 
+1	gene	81838857	81987657	prolyl 3-hydroxylase 2 
+1	gene	82129043	82145252	claudin 1 
+1	gene	82151397	82244884	claudin 16 
+1	gene	82274387	82302743	transmembrane protein 207 
+1	gene	82358483	82504180	interleukin 1 receptor accessory protein 
+1	gene	82650091	82658421	geminin coiled-coil domain containing 
+1	gene	82932484	82968583	osteocrin 
+1	gene	82972004	82985474	urotensin 2B 
+1	gene	83031389	83112387	coiled-coil domain containing 50 
+1	gene	83700056	84232533	fibroblast growth factor 12 
+1	gene	84280415	84396552	Mab-21 domain containing 2 
+1	gene	84656670	84671157	HRAS like suppressor 
+1	gene	84674689	84781494	ATPase 13A5 
+1	gene	84797102	84927512	ATPase 13A4 
+1	gene	84951693	85036173	OPA1%2C mitochondrial dynamin like GTPase 
+1	gene	85428065	85431280	hes family bHLH transcription factor 1 
+1	gene	85612122	85613765	carboxypeptidase N subunit 2 
+1	gene	85627476	85631025	leucine rich repeat containing 15 
+1	pseudogene	85665225	85666909	transcript_id=ENSMICT00000072805
+1	gene	85670680	85784330	ATPase 13A3 
+1	gene	85895414	85924256	transmembrane protein 44 
+1	gene	85931223	85957722	large 60S subunit nuclear export GTPase 1 
+1	gene	85973891	85975162	family with sequence similarity 43 member A 
+1	gene	86290358	86457318	xyloside xylosyltransferase 1 
+1	gene	86462226	86612412	ArfGAP with coiled-coil%2C ankyrin repeat and PH domains 2 
+1	gene	86687897	86703832	apolipoprotein D 
+1	gene	86756370	86783186	3-hydroxybutyrate dehydrogenase 1 
+1	gene	86952100	87259544	discs large MAGUK scaffold protein 1 
+1	gene	87270721	87293057	melanotransferrin 
+1	gene	87329916	87357841	phosphatidylinositol glycan anchor biosynthesis class Z 
+1	gene	87360364	87360663	NCBP2 antisense RNA 2 (head to head) 
+1	gene	87371710	87428413	SUMO specific peptidase 5 
+1	pseudogene	87476933	87530140	transcript_id=ENSMICT00000073361
+1	gene	87574858	87609239	phosphatidylinositol glycan anchor biosynthesis class X 
+1	gene	87609512	87615567	centrosomal protein 19 
+1	gene	87648743	87674160	negative regulator of reactive oxygen species 
+1	gene	87714848	87731598	F-box protein 45 
+1	gene	87732298	87743147	WD repeat domain 53 
+1	gene	87781795	87787328	single-pass membrane protein with coiled-coil domains 1 
+1	gene	87792990	87821524	ring finger protein 168 
+1	gene	88034991	88051558	solute carrier family 51 alpha subunit 
+1	gene	88058072	88071295	zinc finger DHHC-type containing 19 
+1	gene	88172265	88204135	transferrin receptor 
+1	gene	88222676	88262924	tyrosine kinase non receptor 2 
+1	gene	88499450	88530294	forty-two-three domain containing 1 
+1	gene	88537741	88666774	leucine rich repeats and calponin homology domain containing 3 
+1	gene	88672630	88741947	IQ motif containing G 
+1	gene	88750130	88838239	leishmanolysin like peptidase 
+1	gene	88984761	89064960	oxysterol binding protein like 11 
+1	gene	89072585	89134038	sorting nexin 4 
+1	gene	89202036	89336958	zinc finger protein 148 
+1	gene	89353675	89479669	solute carrier family 12 member 8 
+1	gene	89498776	89578242	heart development protein with EGF like domains 1 
+1	gene	89624759	89739799	integrin subunit beta 5 
+1	gene	89749734	89763609	uridine monophosphate synthetase 
+1	gene	89950289	90354023	kalirin RhoGEF kinase 
+1	gene	90494947	90537590	coiled-coil domain containing 14 
+1	gene	90841056	90937059	3-hydroxyacyl-CoA dehydratase 2 
+1	gene	91006472	91122715	adenylate cyclase 5 
+1	gene	91134134	91208851	SEC22 homolog A%2C vesicle trafficking protein 
+1	gene	91242799	91330579	protein disulfide isomerase family A member 5 
+1	pseudogene	91419810	91482199	transcript_id=ENSMICT00000073432
+1	gene	91510516	91579038	disrupted in renal carcinoma 2 
+1	gene	91579027	91629632	HSPB1 associated protein 1 
+1	gene	91637594	91676891	poly(ADP-ribose) polymerase family member 14 
+1	gene	91743028	91752178	deltex E3 ubiquitin ligase 3L 
+1	gene	91751920	91795562	poly(ADP-ribose) polymerase family member 9 
+1	gene	91803147	91870537	karyopherin subunit alpha 1 
+1	gene	91877760	91878752	WD repeat domain 5B 
+1	gene	91881798	91911519	family with sequence similarity 162 member A 
+1	gene	91911603	91935602	coiled-coil domain containing 58 
+1	gene	92119174	92190928	calcium sensing receptor 
+1	gene	92228160	92292090	CD86 molecule 
+1	gene	92316514	92352525	immunoglobulin like domain containing receptor 1 
+1	gene	92369543	92401631	solute carrier family 15 member 2 
+1	gene	92408729	92454520	ELL associated factor 2 
+1	gene	92454613	92514451	IQ motif containing B1 
+1	gene	92555522	92610284	golgin B1 
+1	gene	92614820	92639394	hematopoietic cell-specific Lyn substrate 1 
+1	gene	92643545	92668041	F-box protein 40 
+1	gene	92701394	92812379	DNA polymerase theta 
+1	gene	92825715	93191421	syntaxin binding protein 5 like 
+1	gene	93320318	93355217	general transcription factor IIE subunit 1 
+1	gene	93359915	93394932	RAB%2C member of RAS oncogene family like 3 
+1	gene	93403105	93445162	homogentisate 1%2C2-dioxygenase 
+1	gene	93458972	93465127	NADH:ubiquinone oxidoreductase subunit B4 
+1	gene	93573089	93624766	follistatin like 1 
+1	gene	93663641	93682839	leucine rich repeat containing 58 
+1	gene	93708693	93787633	G protein-coupled receptor 156 
+1	gene	93863887	94092307	glycogen synthase kinase 3 beta 
+1	gene	94100821	94135352	nuclear receptor subfamily 1 group I member 2 
+1	gene	94220974	94229315	cytochrome c oxidase copper chaperone COX17 
+1	gene	94237071	94255147	popeye domain containing 2 
+1	gene	94277782	94306585	phospholipase A1 member A 
+1	gene	94317087	94329313	ADP-ribosylarginine hydrolase 
+1	gene	94340325	94361255	CD80 molecule 
+1	gene	94365175	94391965	translocase of inner mitochondrial membrane domain containing 1 
+1	gene	94396340	94418247	protein O-glucosyltransferase 1 
+1	gene	94421534	94448350	transmembrane protein 39A 
+1	gene	94461496	94575524	Rho GTPase activating protein 31 
+1	gene	94610030	94634711	beta-1%2C4-galactosyltransferase 4 
+1	gene	94640834	94667817	uroplakin 1B 
+1	gene	94701353	94860318	immunoglobulin superfamily member 11 
+1	gene	97031560	97703164	limbic system associated membrane protein 
+1	gene	97771657	97870009	growth associated protein 43 
+1	pseudogene	97987059	97987920	transcript_id=ENSMICT00000073326
+1	gene	99081396	99132688	zinc finger and BTB domain containing 20 
+1	gene	99163082	99180840	T cell immunoreceptor with Ig and ITIM domains 
+1	pseudogene	99206404	99207225	transcript_id=ENSMICT00000072877
+1	gene	99269337	99304849	dopamine receptor D3 
+1	gene	99344966	99369211	queuine tRNA-ribosyltransferase accessory subunit 2 
+1	pseudogene	99368748	99455923	transcript_id=ENSMICT00000073179
+1	gene	99462447	99473560	zinc finger DHHC-type containing 23 
+1	gene	99632232	99655009	N(alpha)-acetyltransferase 50%2C NatE catalytic subunit 
+1	gene	99693161	99753304	upstream transcription factor family member 3 
+1	gene	99766510	99859333	SID1 transmembrane family member 1 
+1	gene	99948072	100039563	cilia and flagella associated protein 44 
+1	gene	100043713	100114329	BOC cell adhesion associated%2C oncogene regulated 
+1	gene	100278120	100292786	nucleolus and neural progenitor protein 
+1	gene	100296508	100311828	GTP binding protein 8 (putative) 
+1	gene	100563806	100593367	coiled-coil domain containing 80 
+1	gene	100609886	100629152	solute carrier family 35 member A5 
+1	gene	100686391	100717674	B and T lymphocyte associated 
+1	gene	100805729	100830680	CD200 molecule 
+1	gene	100857222	100952169	solute carrier family 9 member C1 
+1	gene	100972184	100988650	germinal center associated signaling and motility 
+1	gene	101025406	101062577	transmembrane serine protease 7 
+1	gene	101077091	101090526	transgelin 3 
+1	gene	101097418	101111491	abhydrolase domain containing 10 
+1	gene	101115731	101173030	pleckstrin homology like domain family B member 2 
+1	pseudogene	101191699	101193233	transcript_id=ENSMICT00000072806
+1	gene	101225291	101379293	phosphatidylinositol specific phospholipase C X domain containing 2 
+1	gene	101394791	101479590	CD96 molecule 
+1	gene	101445919	101446575	zinc finger BED-type containing 2 
+1	gene	101701763	101818393	nectin cell adhesion molecule 3 
+1	pseudogene	103241854	103259300	transcript_id=ENSMICT00000072586
+1	gene	103284183	103316367	developmental pluripotency associated 2 
+1	gene	103509068	103678116	MORC family CW-type zinc finger 1 
+1	gene	103684376	103730415	guanylate cyclase activator 1C 
+1	gene	103787204	103817445	T cell receptor associated transmembrane adaptor 1 
+1	gene	103891186	103899812	resistin like beta 
+1	gene	103931287	104012740	DAZ interacting zinc finger protein 3 
+1	gene	104241048	104320360	HERV-H LTR-associating 2 
+1	gene	104367921	104424584	intraflagellar transport 57 
+1	gene	104487102	104541640	CD47 molecule 
+1	gene	104784175	105052743	BBX%2C HMG-box containing 
+1	gene	105195603	105196559	coiled-coil domain containing 54 
+1	gene	106462684	106653480	Cbl proto-oncogene B 
+1	gene	106720310	106906139	activated leukocyte cell adhesion molecule 
+1	gene	109515996	109555272	zona pellucida like domain containing 1 
+1	gene	110112288	110149667	NFKB inhibitor zeta 
+1	gene	110150412	110196831	neurexophilin and PC-esterase domain family member 3 
+1	gene	110206556	110271605	centrosomal protein 97 
+1	gene	110283354	110288553	ribosomal protein L24 
+1	gene	110307641	110340009	zinc finger and BTB domain containing 11 
+1	gene	110375511	110414595	PEST proteolytic signal containing nuclear protein 
+1	pseudogene	110423790	110425006	transcript_id=ENSMICT00000073159
+1	gene	110458299	110619780	SUMO specific peptidase 7 
+1	gene	110625513	110706203	interphotoreceptor matrix proteoglycan 2 
+1	gene	110910180	111130668	ABI family member 3 binding protein 
+1	gene	111132041	111169121	TRK-fused gene 
+1	gene	111185749	111324089	adhesion G protein-coupled receptor G7 
+1	gene	111690913	111704626	leukemia NUP98 fusion partner 1 
+1	gene	111726818	111765519	translocase of outer mitochondrial membrane 70 
+1	gene	111777445	111793021	nitrilase family member 2 
+1	pseudogene	111805217	111882284	transcript_id=ENSMICT00000072897
+1	gene	111955730	112301101	cms1 ribosomal small subunit homolog (yeast) 
+1	gene	112164670	112290722	filamin A interacting protein 1 like 
+1	gene	112315652	112457791	collagen type VIII alpha 1 chain 
+1	gene	113020438	113097198	discoidin%2C CUB and LCCL domain containing 2 
+1	gene	113102329	113136430	ST3 beta-galactoside alpha-2%2C3-sialyltransferase 6 
+1	gene	113334866	113335948	G protein-coupled receptor 15 
+1	gene	113344335	113352024	claudin domain containing 1 
+1	pseudogene	113380928	113381876	transcript_id=ENSMICT00000072910
+1	gene	113425682	113426653	olfactory receptor family 5 subfamily K member 3 
+1	pseudogene	113514874	113515837	transcript_id=ENSMICT00000073503
+1	gene	113629199	113630143	olfactory receptor family 5 subfamily H member 2 
+1	gene	113814861	113815790	olfactory receptor family 5 subfamily AC member 2 
+1	gene	113874038	113918561	gamma-aminobutyric acid type A receptor rho3 subuni
+1	gene	113942250	113966993	ribosomal oxygenase 2 
+1	gene	113968518	114081308	crystallin beta-gamma domain containing 3 
